@@ -145,7 +145,7 @@ You can get the Windows 7 sound theme [here](https://levithon.itch.io/windows-7-
 
 5. Optional but you can save your sound theme.
 
-# Uninstall
+# Uninstalling the theme
 ## Theme
 Disable the Windows 7 theme from settings (select Windows (light) or Windows (dark) making sure it's not a Aero10.1 theme)
 Navigate to `C:\Windows\Resources\Themes` and delete the following:

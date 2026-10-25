@@ -84,6 +84,9 @@ In Glass colors tab:
 - Enable transparency: :white_check_mark:
 
 ## Windhawk
+> [!TIP]
+> Avoid installing the portable version of Windhawk for best results!
+
 After installing Windhawk navigate to the Explore tab and search and install the following extensions:
 1. Resource Redirect
 2. Legacy File Copy

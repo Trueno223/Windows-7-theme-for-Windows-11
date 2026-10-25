@@ -12,7 +12,7 @@ This theme should be reversible as it does not replace or permanently modify any
 
 <img width="433" height="562" alt="Windows start menu with Windows 7 theming" src="https://github.com/user-attachments/assets/f040bd53-9273-49d5-a30e-f8abbc95a29c" />
 
-(May differ from your results because I had different personalization settings!)
+(May differ from your results because I had different personalization settings)
 
 </details>
 
@@ -145,7 +145,7 @@ You can get the Windows 7 sound theme [here](https://levithon.itch.io/windows-7-
 # Uninstall
 ## Theme
 Disable the Windows 7 theme from settings (select Windows (light) or Windows (dark) making sure it's not a Aero10.1 theme)
-Navigate to 'C:\Windows\Resources\Themes' and delete the following:
+Navigate to `C:\Windows\Resources\Themes` and delete the following:
 - aero10p1 (folder)
 - Aero10.1 Seven (Dark).theme
 - Aero10.1 Seven.theme

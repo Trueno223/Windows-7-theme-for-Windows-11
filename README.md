@@ -26,7 +26,7 @@ This theme should be reversible as it does not replace or permanently modify any
   - [Winaero Tweaker](#winaero-tweaker)
   - [Mouse Theme](#mouse-theme)
   - [Sound Theme](#sound-theme)
-* [Uninstall](#uninstall)
+* [Uninstalling the theme](#uninstalling-the-theme)
 * [Credits](#credits)
 * [Final notes](#final-notes)
 
@@ -147,7 +147,7 @@ You can get the Windows 7 sound theme [here](https://levithon.itch.io/windows-7-
 
 # Uninstalling the theme
 ## Theme
-Disable the Windows 7 theme from settings (select Windows (light) or Windows (dark) making sure it's not a Aero10.1 theme)
+Disable the Windows 7 theme from settings (select Windows (light) or Windows (dark) making sure it's not an Aero10.1 theme)
 Navigate to `C:\Windows\Resources\Themes` and delete the following:
 - aero10p1 (folder)
 - Aero10.1 Seven (Dark).theme
